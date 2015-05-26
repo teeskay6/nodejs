@@ -1,0 +1,16 @@
+{
+  "name": "nodejs",
+  "version": "0.0.0",
+  "homepage": "https://github.com/teeskay6/nodejs",
+  "authors": [
+    "masilat <m.alisilat@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
