@@ -1,4 +1,4 @@
 .idea
 node_modules
-public/library
+public/libraries
 .DS_Store
